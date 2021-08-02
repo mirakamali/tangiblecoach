@@ -1,0 +1,4 @@
+nestore_microphone.py = propre fichier pour la conversation entre user et coach. listen(), speak(), think() are seeperated
+state machines directory contains the accelerometer part .   
+
+
